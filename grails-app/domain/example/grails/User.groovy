@@ -31,3 +31,4 @@ class User implements Serializable {
 	    password column: '`password`'
     }
 }
+//this is the comment for the got
